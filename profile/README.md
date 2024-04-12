@@ -14,7 +14,7 @@ Here's a brief overview of the repositories we've set up so far:
 
 - **Team Repositories (team-1 to team-7)**: :chart_with_upwards_trend: These contain the codebase produced by each participating team.
 
-[https://sites.duke.edu/datathon2024/](Duke Datathon 2024 information site)
-[https://colab.research.google.com/drive/1OsxF1EGvdl9ARSPUSLU2xn7MkDh2tCsJ](Code examples)
-[https://colab.research.google.com/drive/1t7KvlLV44qezRXgRH_tKi-nb5InK7C-7](Participant info)
+- [Duke Datathon 2024 information site](https://sites.duke.edu/datathon2024/)
+- [Code examples](https://colab.research.google.com/drive/1OsxF1EGvdl9ARSPUSLU2xn7MkDh2tCsJ)
+- [Participant info](https://colab.research.google.com/drive/1t7KvlLV44qezRXgRH_tKi-nb5InK7C-7)
 
